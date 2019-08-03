@@ -1,0 +1,134 @@
+c:\users\home\documents\visual studio 2015\Projects\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\Content\armouredVan.xnb
+c:\users\home\documents\visual studio 2015\Projects\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\Content\bigBoom.xnb
+c:\users\home\documents\visual studio 2015\Projects\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\Content\bigMissle.xnb
+c:\users\home\documents\visual studio 2015\Projects\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\Content\bounceHigh.xnb
+c:\users\home\documents\visual studio 2015\Projects\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\Content\bounceLow.xnb
+c:\users\home\documents\visual studio 2015\Projects\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\Content\bounceMid.xnb
+c:\users\home\documents\visual studio 2015\Projects\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\Content\bricks.xnb
+c:\users\home\documents\visual studio 2015\Projects\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\Content\bus.xnb
+c:\users\home\documents\visual studio 2015\Projects\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\Content\buzz.xnb
+c:\users\home\documents\visual studio 2015\Projects\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\Content\click.xnb
+c:\users\home\documents\visual studio 2015\Projects\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\Content\crossHairs.xnb
+c:\users\home\documents\visual studio 2015\Projects\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\Content\enemyFire.xnb
+c:\users\home\documents\visual studio 2015\Projects\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\Content\enemyTankBody.xnb
+c:\users\home\documents\visual studio 2015\Projects\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\Content\enemyTankGun.xnb
+c:\users\home\documents\visual studio 2015\Projects\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\Content\explosion.xnb
+c:\users\home\documents\visual studio 2015\Projects\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\Content\GameOver.xnb
+c:\users\home\documents\visual studio 2015\Projects\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\Content\goldTruck.xnb
+c:\users\home\documents\visual studio 2015\Projects\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\Content\greenTruck.xnb
+c:\users\home\documents\visual studio 2015\Projects\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\Content\helpScreen.xnb
+c:\users\home\documents\visual studio 2015\Projects\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\Content\highScores.xnb
+c:\users\home\documents\visual studio 2015\Projects\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\Content\icecreamTruck.xnb
+c:\users\home\documents\visual studio 2015\Projects\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\Content\levelChangeBackground.xnb
+c:\users\home\documents\visual studio 2015\Projects\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\Content\LevelChangeL2.xnb
+c:\users\home\documents\visual studio 2015\Projects\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\Content\LevelChangeL3.xnb
+c:\users\home\documents\visual studio 2015\Projects\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\Content\map1.xnb
+c:\users\home\documents\visual studio 2015\Projects\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\Content\map2.xnb
+c:\users\home\documents\visual studio 2015\Projects\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\Content\map3.xnb
+c:\users\home\documents\visual studio 2015\Projects\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\Content\menuMusic.xnb
+c:\users\home\documents\visual studio 2015\Projects\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\Content\paused.xnb
+c:\users\home\documents\visual studio 2015\Projects\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\Content\playerFire.xnb
+c:\users\home\documents\visual studio 2015\Projects\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\Content\resizedmissle.xnb
+c:\users\home\documents\visual studio 2015\Projects\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\Content\rustyChain.xnb
+c:\users\home\documents\visual studio 2015\Projects\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\Content\select.xnb
+c:\users\home\documents\visual studio 2015\Projects\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\Content\shellExplosion.xnb
+c:\users\home\documents\visual studio 2015\Projects\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\Content\smallExplosion.xnb
+c:\users\home\documents\visual studio 2015\Projects\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\Content\smallMissle.xnb
+c:\users\home\documents\visual studio 2015\Projects\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\Content\splashMenu.xnb
+c:\users\home\documents\visual studio 2015\Projects\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\Content\splashScreen.xnb
+c:\users\home\documents\visual studio 2015\Projects\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\Content\spritefont1.xnb
+c:\users\home\documents\visual studio 2015\Projects\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\Content\tankBody.xnb
+c:\users\home\documents\visual studio 2015\Projects\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\Content\tankGun.xnb
+c:\users\home\documents\visual studio 2015\Projects\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\Content\titleScreen.xnb
+c:\users\home\documents\visual studio 2015\Projects\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\Content\track.xnb
+c:\users\home\documents\visual studio 2015\Projects\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\Content\train.xnb
+c:\users\home\documents\visual studio 2015\Projects\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\TanksMonoGame.exe
+c:\users\home\documents\visual studio 2015\Projects\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\TanksMonoGame.pdb
+c:\users\home\documents\visual studio 2015\Projects\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\MonoGame.Framework.dll
+c:\users\home\documents\visual studio 2015\Projects\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+c:\users\home\documents\visual studio 2015\Projects\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\SharpDX.dll
+c:\users\home\documents\visual studio 2015\Projects\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+c:\users\home\documents\visual studio 2015\Projects\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+c:\users\home\documents\visual studio 2015\Projects\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+c:\users\home\documents\visual studio 2015\Projects\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+c:\users\home\documents\visual studio 2015\Projects\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\SharpDX.XInput.dll
+c:\users\home\documents\visual studio 2015\Projects\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+c:\users\home\documents\visual studio 2015\Projects\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\MonoGame.Framework.xml
+c:\users\home\documents\visual studio 2015\Projects\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+c:\users\home\documents\visual studio 2015\Projects\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\SharpDX.xml
+c:\users\home\documents\visual studio 2015\Projects\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+c:\users\home\documents\visual studio 2015\Projects\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+c:\users\home\documents\visual studio 2015\Projects\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+c:\users\home\documents\visual studio 2015\Projects\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+c:\users\home\documents\visual studio 2015\Projects\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\SharpDX.XInput.xml
+c:\users\home\documents\visual studio 2015\Projects\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+c:\users\home\documents\visual studio 2015\Projects\TanksMonoGame\TanksMonoGame\obj\x86\Debug\TanksMonoGame.csprojResolveAssemblyReference.cache
+c:\users\home\documents\visual studio 2015\Projects\TanksMonoGame\TanksMonoGame\obj\x86\Debug\TanksMonoGame.exe
+c:\users\home\documents\visual studio 2015\Projects\TanksMonoGame\TanksMonoGame\obj\x86\Debug\TanksMonoGame.pdb
+C:\Users\Home\Documents\Uni\OLD\GameProgramming\Tanks Backups\100517MonoGameRev1\TanksMonoGame\TanksMonoGame\obj\x86\Debug\TanksMonoGame.exe
+C:\Users\Home\Documents\Uni\OLD\GameProgramming\Tanks Backups\100517MonoGameRev1\TanksMonoGame\TanksMonoGame\obj\x86\Debug\TanksMonoGame.pdb
+C:\Users\Home\Documents\Uni\OLD\GameProgramming\Tanks Backups\100517MonoGameRev1\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\Content\armouredVan.xnb
+C:\Users\Home\Documents\Uni\OLD\GameProgramming\Tanks Backups\100517MonoGameRev1\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\Content\bigBoom.xnb
+C:\Users\Home\Documents\Uni\OLD\GameProgramming\Tanks Backups\100517MonoGameRev1\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\Content\bigMissle.xnb
+C:\Users\Home\Documents\Uni\OLD\GameProgramming\Tanks Backups\100517MonoGameRev1\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\Content\bounceHigh.xnb
+C:\Users\Home\Documents\Uni\OLD\GameProgramming\Tanks Backups\100517MonoGameRev1\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\Content\bounceLow.xnb
+C:\Users\Home\Documents\Uni\OLD\GameProgramming\Tanks Backups\100517MonoGameRev1\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\Content\bounceMid.xnb
+C:\Users\Home\Documents\Uni\OLD\GameProgramming\Tanks Backups\100517MonoGameRev1\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\Content\bricks.xnb
+C:\Users\Home\Documents\Uni\OLD\GameProgramming\Tanks Backups\100517MonoGameRev1\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\Content\bus.xnb
+C:\Users\Home\Documents\Uni\OLD\GameProgramming\Tanks Backups\100517MonoGameRev1\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\Content\buzz.xnb
+C:\Users\Home\Documents\Uni\OLD\GameProgramming\Tanks Backups\100517MonoGameRev1\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\Content\click.xnb
+C:\Users\Home\Documents\Uni\OLD\GameProgramming\Tanks Backups\100517MonoGameRev1\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\Content\crossHairs.xnb
+C:\Users\Home\Documents\Uni\OLD\GameProgramming\Tanks Backups\100517MonoGameRev1\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\Content\enemyFire.xnb
+C:\Users\Home\Documents\Uni\OLD\GameProgramming\Tanks Backups\100517MonoGameRev1\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\Content\enemyTankBody.xnb
+C:\Users\Home\Documents\Uni\OLD\GameProgramming\Tanks Backups\100517MonoGameRev1\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\Content\enemyTankGun.xnb
+C:\Users\Home\Documents\Uni\OLD\GameProgramming\Tanks Backups\100517MonoGameRev1\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\Content\explosion.xnb
+C:\Users\Home\Documents\Uni\OLD\GameProgramming\Tanks Backups\100517MonoGameRev1\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\Content\GameOver.xnb
+C:\Users\Home\Documents\Uni\OLD\GameProgramming\Tanks Backups\100517MonoGameRev1\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\Content\goldTruck.xnb
+C:\Users\Home\Documents\Uni\OLD\GameProgramming\Tanks Backups\100517MonoGameRev1\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\Content\greenTruck.xnb
+C:\Users\Home\Documents\Uni\OLD\GameProgramming\Tanks Backups\100517MonoGameRev1\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\Content\helpScreen.xnb
+C:\Users\Home\Documents\Uni\OLD\GameProgramming\Tanks Backups\100517MonoGameRev1\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\Content\highScores.xnb
+C:\Users\Home\Documents\Uni\OLD\GameProgramming\Tanks Backups\100517MonoGameRev1\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\Content\icecreamTruck.xnb
+C:\Users\Home\Documents\Uni\OLD\GameProgramming\Tanks Backups\100517MonoGameRev1\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\Content\levelChangeBackground.xnb
+C:\Users\Home\Documents\Uni\OLD\GameProgramming\Tanks Backups\100517MonoGameRev1\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\Content\LevelChangeL2.xnb
+C:\Users\Home\Documents\Uni\OLD\GameProgramming\Tanks Backups\100517MonoGameRev1\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\Content\LevelChangeL3.xnb
+C:\Users\Home\Documents\Uni\OLD\GameProgramming\Tanks Backups\100517MonoGameRev1\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\Content\map1.xnb
+C:\Users\Home\Documents\Uni\OLD\GameProgramming\Tanks Backups\100517MonoGameRev1\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\Content\map2.xnb
+C:\Users\Home\Documents\Uni\OLD\GameProgramming\Tanks Backups\100517MonoGameRev1\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\Content\map3.xnb
+C:\Users\Home\Documents\Uni\OLD\GameProgramming\Tanks Backups\100517MonoGameRev1\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\Content\menuMusic.xnb
+C:\Users\Home\Documents\Uni\OLD\GameProgramming\Tanks Backups\100517MonoGameRev1\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\Content\paused.xnb
+C:\Users\Home\Documents\Uni\OLD\GameProgramming\Tanks Backups\100517MonoGameRev1\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\Content\playerFire.xnb
+C:\Users\Home\Documents\Uni\OLD\GameProgramming\Tanks Backups\100517MonoGameRev1\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\Content\resizedmissle.xnb
+C:\Users\Home\Documents\Uni\OLD\GameProgramming\Tanks Backups\100517MonoGameRev1\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\Content\rustyChain.xnb
+C:\Users\Home\Documents\Uni\OLD\GameProgramming\Tanks Backups\100517MonoGameRev1\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\Content\select.xnb
+C:\Users\Home\Documents\Uni\OLD\GameProgramming\Tanks Backups\100517MonoGameRev1\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\Content\shellExplosion.xnb
+C:\Users\Home\Documents\Uni\OLD\GameProgramming\Tanks Backups\100517MonoGameRev1\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\Content\smallExplosion.xnb
+C:\Users\Home\Documents\Uni\OLD\GameProgramming\Tanks Backups\100517MonoGameRev1\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\Content\smallMissle.xnb
+C:\Users\Home\Documents\Uni\OLD\GameProgramming\Tanks Backups\100517MonoGameRev1\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\Content\splashMenu.xnb
+C:\Users\Home\Documents\Uni\OLD\GameProgramming\Tanks Backups\100517MonoGameRev1\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\Content\splashScreen.xnb
+C:\Users\Home\Documents\Uni\OLD\GameProgramming\Tanks Backups\100517MonoGameRev1\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\Content\spritefont1.xnb
+C:\Users\Home\Documents\Uni\OLD\GameProgramming\Tanks Backups\100517MonoGameRev1\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\Content\tankBody.xnb
+C:\Users\Home\Documents\Uni\OLD\GameProgramming\Tanks Backups\100517MonoGameRev1\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\Content\tankGun.xnb
+C:\Users\Home\Documents\Uni\OLD\GameProgramming\Tanks Backups\100517MonoGameRev1\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\Content\titleScreen.xnb
+C:\Users\Home\Documents\Uni\OLD\GameProgramming\Tanks Backups\100517MonoGameRev1\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\Content\track.xnb
+C:\Users\Home\Documents\Uni\OLD\GameProgramming\Tanks Backups\100517MonoGameRev1\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\Content\train.xnb
+C:\Users\Home\Documents\Uni\OLD\GameProgramming\Tanks Backups\100517MonoGameRev1\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\TanksMonoGame.exe
+C:\Users\Home\Documents\Uni\OLD\GameProgramming\Tanks Backups\100517MonoGameRev1\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\TanksMonoGame.pdb
+C:\Users\Home\Documents\Uni\OLD\GameProgramming\Tanks Backups\100517MonoGameRev1\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Home\Documents\Uni\OLD\GameProgramming\Tanks Backups\100517MonoGameRev1\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Home\Documents\Uni\OLD\GameProgramming\Tanks Backups\100517MonoGameRev1\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Home\Documents\Uni\OLD\GameProgramming\Tanks Backups\100517MonoGameRev1\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Home\Documents\Uni\OLD\GameProgramming\Tanks Backups\100517MonoGameRev1\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Home\Documents\Uni\OLD\GameProgramming\Tanks Backups\100517MonoGameRev1\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Home\Documents\Uni\OLD\GameProgramming\Tanks Backups\100517MonoGameRev1\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Home\Documents\Uni\OLD\GameProgramming\Tanks Backups\100517MonoGameRev1\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Home\Documents\Uni\OLD\GameProgramming\Tanks Backups\100517MonoGameRev1\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Home\Documents\Uni\OLD\GameProgramming\Tanks Backups\100517MonoGameRev1\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Home\Documents\Uni\OLD\GameProgramming\Tanks Backups\100517MonoGameRev1\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Home\Documents\Uni\OLD\GameProgramming\Tanks Backups\100517MonoGameRev1\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Home\Documents\Uni\OLD\GameProgramming\Tanks Backups\100517MonoGameRev1\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Home\Documents\Uni\OLD\GameProgramming\Tanks Backups\100517MonoGameRev1\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Home\Documents\Uni\OLD\GameProgramming\Tanks Backups\100517MonoGameRev1\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Home\Documents\Uni\OLD\GameProgramming\Tanks Backups\100517MonoGameRev1\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Home\Documents\Uni\OLD\GameProgramming\Tanks Backups\100517MonoGameRev1\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Home\Documents\Uni\OLD\GameProgramming\Tanks Backups\100517MonoGameRev1\TanksMonoGame\TanksMonoGame\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Home\Documents\Uni\OLD\GameProgramming\Tanks Backups\100517MonoGameRev1\TanksMonoGame\TanksMonoGame\obj\x86\Debug\TanksMonoGame.csprojResolveAssemblyReference.cache
