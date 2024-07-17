@@ -97,7 +97,7 @@ namespace Tanks
                         Game1.levelManager.setLevel(2);
                     }
 
-                    else if (Game1.playLevelSelector == 3)
+                    else if (Game1.playLe asdasdasdasdvelSelector == 3)
                     {
                         Game1.levelManager.getLevel(3).LoadContent();
                         Game1.levelManager.getLevel(3).Initialize();
