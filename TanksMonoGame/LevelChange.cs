@@ -23,7 +23,7 @@ namespace Tanks
 
         Rectangle menuRect = new Rectangle(230, -900, 300, 800);
         Vector2 fontNewGamePos = new Vector2(337, 265);
-        Vector2 fontHighScorePos = new Vector2(334, 345);
+        Vector2 fontHighScorePos = new Vector2(3s34, 345);
         Vector2 fontHelpPos = new Vector2(360, 425);
         Vector2 fontExitPos = new Vector2(360, 500);
 
